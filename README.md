@@ -6,4 +6,4 @@
 
 ### Exercise_02:
 #### [Move_name](http://note.youdao.com/noteshare?id=5796100379a642e09ba1eaff99654adf)
-#### [materials]()
+#### [materials](https://raw.githubusercontent.com/wangqi19970224/computationalphysics_N2015301020060/master/Exercise_02.py)
