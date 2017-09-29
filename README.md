@@ -9,5 +9,5 @@
 #### [materials](https://raw.githubusercontent.com/wangqi19970224/computationalphysics_N2015301020060/master/Exercise_02.py)
 
 ### Exercise_03:
-#### [EXERCISES 1.1](http://note.youdao.com/noteshare?id=b451c1dddc72838af508ae201f6bb3b5)
+#### [EXERCISES_1.1](http://note.youdao.com/noteshare?id=b451c1dddc72838af508ae201f6bb3b5)
 #### [materials](https://raw.githubusercontent.com/wangqi19970224/computationalphysics_N2015301020060/master/Exercise_03.py)
