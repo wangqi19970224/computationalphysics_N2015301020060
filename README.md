@@ -7,3 +7,6 @@ Exercise_03  |[EXERCISE 1.1](http://note.youdao.com/noteshare?id=b451c1dddc72838
 Exercise_04  |   [Cannon Shell](http://note.youdao.com/noteshare?id=5dde0e2a022409c5f34d8493fef75af2)   |  [materials_04](https://github.com/wangqi19970224/computationalphysics_N2015301020060/blob/master/Exercise_04.rar)
 Exercise_05  |  [Exercise 2.21](http://note.youdao.com/noteshare?id=0b529bab01b393d6226d35e624bcb8ce)|   [materials_05](https://raw.githubusercontent.com/wangqi19970224/computationalphysics_N2015301020060/master/Exercise_05.py)
 Exercise_06  |  [Exercise 3.13](http://note.youdao.com/noteshare?id=b4940da60e3cd84736808662aa94c67e)  |[materials_06](https://raw.githubusercontent.com/wangqi19970224/computationalphysics_N2015301020060/master/Materials_06.py)
+Exercise_07  |  [Exercise 3.20](http://note.youdao.com/noteshare?id=db73f93f13fcdd90a804b32fc198e662)  |  [materials_07]()
+Exercise_08  |   [Exercise 3.30]()  |  [materials_08]()
+Exercise_09  |[Exercise 4.16](http://note.youdao.com/noteshare?id=6f46baaa7f0f3641818777c50173e73b)  |  [materials_09](https://github.com/wangqi19970224/computationalphysics_N2015301020060/blob/master/materials_09.py)
