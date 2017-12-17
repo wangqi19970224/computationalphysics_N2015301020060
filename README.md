@@ -10,3 +10,5 @@ Exercise_06  |  [Exercise 3.13](http://note.youdao.com/noteshare?id=b4940da60e3c
 Exercise_07  |  [Exercise 3.20](http://note.youdao.com/noteshare?id=db73f93f13fcdd90a804b32fc198e662)  |  [materials_07]()
 Exercise_08  |   [Exercise 3.30]()  |  [materials_08]()
 Exercise_09  |[Exercise 4.16](http://note.youdao.com/noteshare?id=6f46baaa7f0f3641818777c50173e73b)  |  [materials_09](https://github.com/wangqi19970224/computationalphysics_N2015301020060/blob/master/materials_09.py)
+Exercise_10  |  [Exercise 5.1]()   |   [materials_10]()
+Exercise_11   |   [EXercise 6.6](http://note.youdao.com/noteshare?id=49d052d7f7893e2d71eec8dd33b05cde)
